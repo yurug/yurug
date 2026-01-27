@@ -1,7 +1,8 @@
 # Hi, I'm Yann
 
-**Paris, France** | **PL Researcher & Educator** | **Functional Programming Enthusiast**
+**Fondettes, France** | **Head of Engineering** | **Software Engineer** | **PL Researcher & Educator** | **Functional Programming Enthusiast**
 
+![Tezos](https://img.shields.io/badge/-Tezos-2C7DF7?style=flat-square&logo=tezos&logoColor=white)
 ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
 ![Coq](https://img.shields.io/badge/-Coq-CC2927?style=flat-square&logo=coq&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -10,7 +11,7 @@
 ![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 ![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white)
-![Tezos](https://img.shields.io/badge/-Tezos-2C7DF7?style=flat-square&logo=tezos&logoColor=white)
+
 
 > Building tools that make programming languages more accessible, verifiable, and fun. From teaching OCaml to thousands of students to parsing the depths of POSIX shell. Currently working on the **Tezos blockchain**.
 
