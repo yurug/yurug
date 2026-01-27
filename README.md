@@ -13,7 +13,20 @@
 ![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white)
 
 
-> Building tools that make programming languages more accessible, verifiable, and fun. From teaching OCaml to thousands of students to parsing the depths of POSIX shell. Currently working on the **Tezos blockchain**.
+> Building tools that make programming languages more accessible, verifiable, and fun. From teaching OCaml to thousands of students to parsing the depths of POSIX shell.
+
+## Currently: Tezos Blockchain
+
+I'm currently **Head of Engineering** working on the **[Tezos](https://tezos.com)** blockchain, a self-amending cryptographic ledger built with OCaml. My work focuses on:
+
+- **Tezos Protocol Development** - Core blockchain infrastructure in OCaml, leveraging strong types for safety-critical code
+- **Smart Rollups** - Layer 2 scaling solutions for high-throughput decentralized applications
+- **Tezos X** - Next-generation blockchain architecture and tooling
+- **Formal Verification** - Applying rigorous methods to ensure smart contract correctness
+- **Programming Language Design** - Contributing to Michelson and high-level smart contract languages
+
+[![Tezos](https://img.shields.io/badge/Tezos-Blockchain-2C7DF7?style=for-the-badge&logo=tezos&logoColor=white)](https://tezos.com)
+[![GitLab](https://img.shields.io/badge/tezos%2Ftezos-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tezos/tezos)
 
 ## Featured Projects
 
@@ -42,11 +55,11 @@
 
 ## What I Work On
 
-- **Blockchain** - Tezos, Smart Rollups, Tezos X
+- **Blockchain** - Tezos protocol, Smart Rollups, Tezos X
+- **Smart Contract Languages** - Designing safe, verifiable languages for decentralized applications
 - **Programming Language Research** - Type systems, parsing, semantics
 - **Formal Methods** - Verification, proof assistants, certified software
 - **Education** - Making functional programming accessible to everyone
-- **Developer Tools** - Parsers, analyzers, and productivity utilities
 
 ## Achievements
 
@@ -74,6 +87,6 @@ I believe in building tools that teach as they work, making complex concepts app
 - I think OCaml is an excellent first programming language
 - I write fiction and built a tool to track my word counts
 - I believe terminal applications can be beautiful
-- Paris is the best city for thinking about abstract syntax trees
+- The Loire Valley is the best place for thinking about abstract syntax trees
 
 </details>
