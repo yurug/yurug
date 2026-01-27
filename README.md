@@ -41,6 +41,7 @@
 
 ## What I Work On
 
+- **Blockchain** - Tezos, Smart Rollups, Tezos X
 - **Programming Language Research** - Type systems, parsing, semantics
 - **Formal Methods** - Verification, proof assistants, certified software
 - **Education** - Making functional programming accessible to everyone
