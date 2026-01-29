@@ -28,6 +28,16 @@ I'm currently **Head of Engineering** working on the **[Tezos](https://tezos.com
 [![Tezos](https://img.shields.io/badge/Tezos-Blockchain-2C7DF7?style=for-the-badge&logo=tezos&logoColor=white)](https://tezos.com)
 [![GitLab](https://img.shields.io/badge/tezos%2Ftezos-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tezos/tezos)
 
+## Latest Writing
+
+### [A Short History of Software Development](https://x.com/yurug/status/2015378992153481484)
+
+> *"The code agents crisis adds a new parameter to software engineering: machines now also write code for humans and machines."*
+
+From punched cards to AI code agents—how each crisis in software history emerged not from lack of power, but from a mismatch between what became cheap and what remained hard. Code agents make production cheap at unprecedented scale, but they don't make meaning cheap. The next phase of software engineering will be defined by the disciplines we invent to keep capability aligned with human intent.
+
+**Key insight:** For the first time, the cost of *validating* software can dominate the cost of *building* it.
+
 ## Featured Projects
 
 ### Teaching & Learning
@@ -69,6 +79,7 @@ I'm currently **Head of Engineering** working on the **[Tezos](https://tezos.com
 
 ## Connect
 
+[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yurug)
 [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=safari&logoColor=white)](https://yann.regis-gianas.org)
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yurug)
 
