@@ -45,6 +45,7 @@ From punched cards to AI code agents—how each crisis in software history emerg
 - **[ocaml4.04.0-copatterns](https://github.com/yurug/ocaml4.04.0-copatterns)** - Experimental OCaml extension featuring copatterns
 
 ### Parsing & Language Tools
+- **[menhir](https://gitlab.inria.fr/fpottier/menhir)** - An LR(1) parser generator for OCaml (co-author)
 - **[morbig](https://github.com/colis-anr/morbig)** - A static parser for POSIX Shell with concrete syntax trees (200+ stars)
 - **[parsing-js-semicolon-insertion-hell](https://github.com/yurug/parsing-js-semicolon-insertion-hell)** - Demystifying JavaScript's infamous ASI
 
