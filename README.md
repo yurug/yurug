@@ -53,7 +53,7 @@ From punched cards to AI code agents—how each crisis in software history emerg
 - **[FreeSpec](https://github.com/lthms/FreeSpec)** - Framework for implementing and certifying impure computations in Coq (53+ stars)
 
 ### Personal Tools
-- **[maplume](https://github.com/yurug/maplume)** - A word tracker for novel writers (Electron + React + TypeScript)
+- **[maplume](https://github.com/yurug/maplume)** - A word tracker to help novel writers (Electron + React + TypeScript)
 - **[srit](https://github.com/yurug/srit)** - Speed Read It! Terminal-based speed reading
 - **[revisor](https://github.com/yurug/revisor)** - An X utility to interact with LLMs through clipboard
 
@@ -97,7 +97,7 @@ I believe in building tools that teach as they work, making complex concepts app
 
 - I've spent countless hours understanding why JavaScript's semicolon insertion is the way it is
 - I think OCaml is an excellent first programming language
-- I write fiction and built a tool to track my word counts
+- I built Maplume to help writers track their word counts
 - I believe terminal applications can be beautiful
 - The Loire Valley is the best place for thinking about abstract syntax trees
 
