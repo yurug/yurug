@@ -46,7 +46,6 @@ From punched cards to AI code agents—how each crisis in software history emerg
 
 ### Parsing & Language Tools
 - **[morbig](https://github.com/colis-anr/morbig)** - A static parser for POSIX Shell with concrete syntax trees (200+ stars)
-- **[menhir-error-recovery](https://github.com/yurug/menhir-error-recovery)** - Advanced error recovery techniques for parser generators
 - **[parsing-js-semicolon-insertion-hell](https://github.com/yurug/parsing-js-semicolon-insertion-hell)** - Demystifying JavaScript's infamous ASI
 
 ### Formal Verification
