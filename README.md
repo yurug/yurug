@@ -1,6 +1,6 @@
 # Hi, I'm Yann
 
-**Fondettes, France** | **Head of Engineering** | **Software Engineer** | **PL Researcher & Educator** | **Functional Programming Enthusiast**
+**Tours, France** | **Head of Engineering** | **Software Engineer** | **PL Researcher & Educator** | **Functional Programming Enthusiast**
 
 ![Tezos](https://img.shields.io/badge/-Tezos-2C7DF7?style=flat-square&logo=tezos&logoColor=white)
 ![OCaml](https://img.shields.io/badge/-OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
