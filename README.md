@@ -9,7 +9,7 @@ Before joining the Tezos ecosystem, I spent fifteen years as an Associate
 Professor in Computer Science. My work has moved between programming languages,
 proof engineering, developer education, and systems operated in production.
 
-**Start here:** [Software engineering in the agent era](https://yann.regis-gianas.org/en/start-here/)
+**Read the essays:** [Software engineering in the agent era](https://yann.regis-gianas.org/en/)
 
 ## Current work
 
