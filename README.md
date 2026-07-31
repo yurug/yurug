@@ -1,104 +1,86 @@
 # Hi, I'm Yann
 
-**Tours, France** | **Head of Engineering** | **Software Engineer** | **PL Researcher & Educator** | **Functional Programming Enthusiast**
+**Tours, France** | **Head of Core Engineering at [Nomadic Labs](https://www.nomadic-labs.com/)**
 
-![Tezos](https://img.shields.io/badge/-Tezos-2C7DF7?style=flat-square&logo=tezos&logoColor=white)
-![OCaml](https://img.shields.io/badge/-OCaml-EC6813?style=flat-square&logo=ocaml&logoColor=white)
-![Coq](https://img.shields.io/badge/-Coq-CC2927?style=flat-square&logo=coq&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Haskell](https://img.shields.io/badge/-Haskell-5D4F85?style=flat-square&logo=haskell&logoColor=white)
-![Shell](https://img.shields.io/badge/-Shell-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Emacs](https://img.shields.io/badge/-Emacs-7F5AB6?style=flat-square&logo=gnuemacs&logoColor=white)
+I study how to build reliable software when agents write most of the code,
+connecting first principles, formal methods, and production engineering.
 
+Before joining the Tezos ecosystem, I spent fifteen years as an Associate
+Professor in Computer Science. My work has moved between programming languages,
+proof engineering, developer education, and systems operated in production.
 
-> Building tools that make programming languages more accessible, verifiable, and fun. From teaching OCaml to thousands of students to parsing the depths of POSIX shell.
+**Start here:** [Software engineering in the agent era](https://yann.regis-gianas.org/en/start-here/)
 
-## Currently: Tezos Blockchain
+## Current work
 
-I'm currently **Head of Engineering** working on the **[Tezos](https://tezos.com)** blockchain, a self-amending cryptographic ledger built with OCaml. My work focuses on:
+At Nomadic Labs, I help lead the engineering of the
+[Tezos](https://tezos.com/) protocol and its infrastructure. My current work
+includes protocol evolution, Tezos X, Smart Rollups, performance, and the use of
+formal reasoning in production engineering.
 
-- **Tezos Protocol Development** - Core blockchain infrastructure in OCaml, leveraging strong types for safety-critical code
-- **Smart Rollups** - Layer 2 scaling solutions for high-throughput decentralized applications
-- **Tezos X** - Next-generation blockchain architecture and tooling
-- **Formal Verification** - Applying rigorous methods to ensure smart contract correctness
-- **Programming Language Design** - Contributing to Michelson and high-level smart contract languages
+I also write living essays about a question that code agents make hard to
+ignore: when producing code becomes cheap, how do we establish that we built
+the right thing?
 
-[![Tezos](https://img.shields.io/badge/Tezos-Blockchain-2C7DF7?style=for-the-badge&logo=tezos&logoColor=white)](https://tezos.com)
-[![GitLab](https://img.shields.io/badge/tezos%2Ftezos-GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/tezos/tezos)
+- [The Code Agent Crisis](https://yann.regis-gianas.org/en/posts/code-agent-crisis/)
+- [Why a loop at all](https://yann.regis-gianas.org/en/posts/harness-not-output/)
+- [Talks and conversations](https://yann.regis-gianas.org/en/talks/)
+- [Revision history](https://yann.regis-gianas.org/en/changes/)
 
-## Latest Writing
+## Selected foundations
 
-### [A Short History of Software Development](https://x.com/yurug/status/2015378992153481484)
+These projects are part of the path that led to my current work.
 
-> *"The code agents crisis adds a new parameter to software engineering: machines now also write code for humans and machines."*
+### Programming and education
 
-From punched cards to AI code agents—how each crisis in software history emerged not from lack of power, but from a mismatch between what became cheap and what remained hard. Code agents make production cheap at unprecedented scale, but they don't make meaning cheap. The next phase of software engineering will be defined by the disciplines we invent to keep capability aligned with human intent.
+- [Learn-OCaml](https://github.com/ocaml-sf/learn-ocaml), a platform for
+  teaching and assessing OCaml programming.
+- [OCaml with copatterns](https://github.com/yurug/ocaml4.04.0-copatterns), an
+  experimental OCaml extension.
 
-**Key insight:** For the first time, the cost of *validating* software can dominate the cost of *building* it.
+### Parsing and language tools
 
-## Featured Projects
+- [Morbig](https://github.com/colis-anr/morbig), a static parser for the POSIX
+  shell language.
+- [Parsing JavaScript's automatic semicolon insertion](https://github.com/yurug/parsing-js-semicolon-insertion-hell),
+  an executable investigation of a famously subtle language rule.
 
-### Teaching & Learning
-- **[learn-ocaml](https://github.com/ocaml-sf/learn-ocaml)** - A web application for learning OCaml, used by universities worldwide (322+ stars)
-- **[ocaml4.04.0-copatterns](https://github.com/yurug/ocaml4.04.0-copatterns)** - Experimental OCaml extension featuring copatterns
+### Formal verification
 
-### Parsing & Language Tools
-- **[menhir](https://gitlab.inria.fr/fpottier/menhir)** - An LR(1) parser generator for OCaml (co-author)
-- **[morbig](https://github.com/colis-anr/morbig)** - A static parser for POSIX Shell with concrete syntax trees (200+ stars)
-- **[parsing-js-semicolon-insertion-hell](https://github.com/yurug/parsing-js-semicolon-insertion-hell)** - Demystifying JavaScript's infamous ASI
+- [FreeSpec](https://github.com/lthms/FreeSpec), a Coq framework for specifying,
+  executing, and certifying impure computations.
 
-### Formal Verification
-- **[FreeSpec](https://github.com/lthms/FreeSpec)** - Framework for implementing and certifying impure computations in Coq (53+ stars)
+### Small personal tools
 
-### Personal Tools
-- **[maplume](https://github.com/yurug/maplume)** - A word tracker to help novel writers (Electron + React + TypeScript)
-- **[srit](https://github.com/yurug/srit)** - Speed Read It! Terminal-based speed reading
-- **[revisor](https://github.com/yurug/revisor)** - An X utility to interact with LLMs through clipboard
+- [Maplume](https://github.com/yurug/maplume), a word tracker for writers.
+- [srit](https://github.com/yurug/srit), a terminal speed-reading tool.
+- [revisor](https://github.com/yurug/revisor), a clipboard interface for
+  working with language models.
 
-## GitHub Activity
+## Research
 
-![GitHub Contribution Graph](https://ghchart.rshah.org/yurug)
+My earlier research covers functional programming, programming-language
+semantics, proof engineering, incremental computation, parsing, and critical
+software verification.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yurug&show_icons=true&theme=default&hide_border=true&count_private=true)
+- [Google Scholar](https://scholar.google.com/citations?user=-hyJ7CkAAAAJ&hl=en)
+- [Research contributions and conference record](https://conf.researchr.org/profile/conf/yannregisgianas)
 
-## What I Work On
+## Contact
 
-- **Blockchain** - Tezos protocol, Smart Rollups, Tezos X
-- **Smart Contract Languages** - Designing safe, verifiable languages for decentralized applications
-- **Programming Language Research** - Type systems, parsing, semantics
-- **Formal Methods** - Verification, proof assistants, certified software
-- **Education** - Making functional programming accessible to everyone
+- [Blog](https://yann.regis-gianas.org/en/)
+- [X](https://x.com/yurug)
+- [GitHub](https://github.com/yurug)
 
-## Achievements
-
-- **Arctic Code Vault Contributor** - Code preserved for future generations
-- **Starstruck** - Repository with 100+ stars
-- **Pull Shark x2** - Active open source contributor
-
-## Connect
-
-[![X](https://img.shields.io/badge/-X-000000?style=flat-square&logo=x&logoColor=white)](https://x.com/yurug)
-[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat-square&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=-hyJ7CkAAAAJ&hl=en)
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=safari&logoColor=white)](https://yann.regis-gianas.org)
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/yurug)
-
----
-
-### Philosophy
-
-> "Types are not just for catching bugs—they're a language for expressing intent."
-
-I believe in building tools that teach as they work, making complex concepts approachable without sacrificing rigor.
+Unless explicitly stated otherwise, the views expressed here are my own and do
+not represent Nomadic Labs.
 
 <details>
-<summary>Random Facts</summary>
+<summary>A few personal facts</summary>
 
-- I've spent countless hours understanding why JavaScript's semicolon insertion is the way it is
-- I think OCaml is an excellent first programming language
-- I built Maplume to help writers track their word counts
-- I believe terminal applications can be beautiful
-- The Loire Valley is the best place for thinking about abstract syntax trees
+- I think OCaml is an excellent first programming language.
+- I built Maplume because writing prose deserves good tools too.
+- I believe terminal applications can be beautiful.
+- The Loire Valley is the best place for thinking about abstract syntax trees.
 
 </details>
